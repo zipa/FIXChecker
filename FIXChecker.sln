@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIXChecker", "FIXChecker\FIXChecker.csproj", "{A514092C-74FB-46BC-BFE7-6B948B1372DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A514092C-74FB-46BC-BFE7-6B948B1372DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A514092C-74FB-46BC-BFE7-6B948B1372DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A514092C-74FB-46BC-BFE7-6B948B1372DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A514092C-74FB-46BC-BFE7-6B948B1372DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7BE071-E8CA-4CB3-87D7-C25022F83075}
+	EndGlobalSection
+EndGlobal
